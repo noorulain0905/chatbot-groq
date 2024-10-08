@@ -4,6 +4,9 @@
 
 This project demonstrates the integration of the Groq API with the Langchain framework using a chatbot interface. The chatbot allows users to interact with Groq's language models and get responses to their queries in real-time. The app is built using Streamlit, providing an interactive web interface.
 
+### Live Demo
+You can try this app [here](https://my-groq-chatbot.streamlit.app/).
+
 ### Key Features
 
 - **Groq API Integration**: Utilizes Groq's powerful models for generating responses.
